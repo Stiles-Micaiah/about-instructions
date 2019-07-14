@@ -1,0 +1,13 @@
+html {
+  background-image: linear-gradient( to top left, pink, teal);
+  height: 100%;
+}
+
+body {
+  background: none;
+}
+
+#page-header {
+  position: static;
+  margin-top: 5vh;
+}
